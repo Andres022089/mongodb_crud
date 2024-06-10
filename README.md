@@ -6,9 +6,11 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Borrar) que util
 ## Instalación
 
 1. Clona este repositorio.
-2. Instala las dependencias con `npm install`.
-3. Configura la conexión a tu base de datos MongoDB en el archivo `config.js`.
-4. Inicia la aplicación con `npm start`.
+2. Configura tu entorno de servidor web local (como Apache, Nginx, o PHP built-in server) para que apunte al directorio raíz del proyecto.
+3. Configura tu servidor de base de datos MongoDB y asegúrate de que la conexión esté establecida correctamente.
+4. Abre el archivo `conexion_mongo.php` que esta en la carpeta 'clases' y establece los parámetros de conexión a tu base de datos MongoDB.
+5. Accede a la aplicación a través de tu navegador web y comienza a trabajar con la aplicación CRUD de MongoDB.
+
    
    ## Contacto
 
