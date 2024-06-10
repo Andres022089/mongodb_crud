@@ -1,4 +1,4 @@
-Soy Andres Polania, estudiante de tecnologia en Desarrollo de Software, aprendemos con la practica
+Soy Andres Polania, estudiante de tecnología en Desarrollo de Software, aprendemos con la práctica
 # Proyecto CRUD MongoDB
 
 Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Borrar) que utiliza MongoDB como base de datos.
