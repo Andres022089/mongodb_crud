@@ -15,4 +15,4 @@ Este proyecto es una aplicación CRUD (Crear, Leer, Actualizar, Borrar) que util
    
    ## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme a través de mi correo electrónico: carlospolania43@gamil.com.
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme a través de mi correo electrónico: carlospolania43@gmail.com.
